@@ -76,7 +76,7 @@ $("#dietSlider").editRangeSlider("zoomin", 27);
 $("#dateSlider").dateRangeSlider("zoonOut", 42);
 ```
 
-```
+```sh
 npm install
 npm install -g grunt-cli
 grunt
